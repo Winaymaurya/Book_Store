@@ -1,0 +1,31 @@
+.nav{
+    background-color: rgb(156, 20, 136);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 33px;
+    position: fixed;
+    width: 100%;
+
+}
+.logo{
+    width: 30%;
+    font-size: 25px;
+    /* margin-left: 20px; */
+    
+}
+.links{
+    width: 30%;
+    font-size: 18px;
+    
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+
+}
+li{
+    cursor: pointer;
+}

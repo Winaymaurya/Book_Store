@@ -1,0 +1,11 @@
+.mybook{
+    width: 78%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.delete{
+    width: 30px;
+    height: 30px;
+    
+}
